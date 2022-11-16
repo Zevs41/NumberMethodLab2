@@ -1,0 +1,8 @@
+C:\Users\zeus2\source\repos\ConsoleAppMathLab2\ConsoleAppMathLab2\bin\Debug\ConsoleAppMathLab2.exe.config
+C:\Users\zeus2\source\repos\ConsoleAppMathLab2\ConsoleAppMathLab2\bin\Debug\ConsoleAppMathLab2.exe
+C:\Users\zeus2\source\repos\ConsoleAppMathLab2\ConsoleAppMathLab2\bin\Debug\ConsoleAppMathLab2.pdb
+C:\Users\zeus2\source\repos\ConsoleAppMathLab2\ConsoleAppMathLab2\obj\Debug\ConsoleAppMathLab2.csproj.AssemblyReference.cache
+C:\Users\zeus2\source\repos\ConsoleAppMathLab2\ConsoleAppMathLab2\obj\Debug\ConsoleAppMathLab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\zeus2\source\repos\ConsoleAppMathLab2\ConsoleAppMathLab2\obj\Debug\ConsoleAppMathLab2.csproj.CoreCompileInputs.cache
+C:\Users\zeus2\source\repos\ConsoleAppMathLab2\ConsoleAppMathLab2\obj\Debug\ConsoleAppMathLab2.exe
+C:\Users\zeus2\source\repos\ConsoleAppMathLab2\ConsoleAppMathLab2\obj\Debug\ConsoleAppMathLab2.pdb
