@@ -43,19 +43,6 @@ namespace NumberMethodLab2
             Console.ReadKey();
         }
 
-
-
-        static double func1(double x, double y)
-        {
-            return (x - Math.Log((y + 1.1), Math.E));
-        }
-
-        static double func2(double x, double y)
-        {
-
-            return (y - Math.Cos((x + 0.1)));
-        }
-
         static double[,] getMatrixZeidel()
         {
             double[,] matrix = {
